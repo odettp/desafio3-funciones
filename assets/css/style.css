@@ -1,0 +1,20 @@
+#ele1 {
+  background: green;
+}
+.caja {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+.verde {
+  background-color: green;
+}
+.rojo {
+  background-color: red;
+}
+.azul {
+  background-color: blue;
+}
+.amarillo {
+  background-color: yellow;
+}
